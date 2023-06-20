@@ -6,8 +6,6 @@
   --contactColor: #434455;
 }
 body {
-  display: inline;
-  width: 1158px;
   font-family: "Roboto", sans-serif;
   background-color: var(--fonWebsite);
   color: var(--contactColor);
