@@ -14,7 +14,7 @@ ul {
   padding-left: 0;
 }
 
-.logo {
+.header-logo {
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -23,7 +23,6 @@ ul {
   font-family: "Raleway", sans-serif;
   color: var(--logoAndButtonText);
   margin-right: 76px;
-  display: inline-block;
 }
 
 .logo-highlight {
@@ -184,7 +183,14 @@ ul {
 .logo-studio {
   color: var(--backgroundButton);
 }
-.block-link {
+.footer-logo {
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  font-family: "Raleway", sans-serif;
+  color: var(--logoAndButtonText);
   display: inline-block;
   margin-bottom: 16px;
 }
