@@ -10,6 +10,9 @@ body {
   background-color: var(--fonWebsite);
   color: var(--contactColor);
 }
+ul {
+  padding-left: 0;
+}
 
 .logo {
   font-weight: 800;
@@ -243,7 +246,6 @@ img {
 
 .list-feature {
   display: flex;
-  flex-direction: row;
   gap: 24px;
 }
 .header {
@@ -255,7 +257,6 @@ img {
 
 .we-are-doing {
   display: flex;
-  flex-direction: row;
   gap: 24px;
 }
 .our-works {
