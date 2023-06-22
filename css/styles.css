@@ -23,6 +23,7 @@ ul {
   font-family: "Raleway", sans-serif;
   color: var(--logoAndButtonText);
   margin-right: 76px;
+  display: inline-block;
 }
 
 .logo-highlight {
